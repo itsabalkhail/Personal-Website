@@ -10,7 +10,7 @@ A professional, responsive personal portfolio website built with modern web tech
 ![Homepage Screenshot](https://github.com/itsabalkhail/Personal-Website/blob/main/Screenshot%202025-07-07%20095626.png?raw=true)
 *Homepage featuring animated header with gradient backgrounds and professional introduction*
 
-![Skills Section Screenshot](screenshot2.png)
+![Skills Section Screenshot](https://github.com/itsabalkhail/Personal-Website/blob/main/Screenshot%202025-07-07%20095656.png?raw=true)
 *Skills section with interactive tags and comprehensive contact information*
 
 ## 🏗️ Project Architecture
